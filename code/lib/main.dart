@@ -115,16 +115,19 @@ class _MyAppState extends State<MyApp> {
         counterUI
       ],
     );
+
+    // Widget that defines the floating action button
+    Widget floatingActionButton = FloatingActionButton(
+      child: Icon(Icons.add),
+      onPressed: addKaro, /// whenever the button is pressed, [addKaro] function is called.
+    );
     
     /// Widget that defines the home. [Scaffold] implements the basic material
     /// design (the design that all android apps use) visual layout structure.
     Widget home = Scaffold(
       appBar: appBar,
       body: body,
-      floatingActionButton: FloatingActionButton(
-        child: Icon(Icons.add),
-        onPressed: addKaro, /// whenever the button is pressed, [addKaro] function is called.
-      ),
+      floatingActionButton: floatingActionButton
     );
     
     /// Widget that defines the app.
