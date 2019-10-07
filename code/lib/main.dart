@@ -55,6 +55,8 @@ class _MyAppState extends State<MyApp> {
     /// Widget. An object of type [Widget] has to be returned by this function.
     /// This function is called whenever the user defined widget [State] changes
     /// (due to a [setState] call) to 'rebuild' the widgets that make up [MyApp].
+    /// The [BuildContext] argument keeps track of where to put the widget returned
+    /// by this function in the widget tree.
     /// Hover over the function name in visual studio code to see a lot more
     /// details.
     
