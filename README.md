@@ -1,2 +1,3 @@
-# flutter-app-dev
-Repo containing programs and notes done during the app dev session
+# App Development session 1
+Code and notes for the first App development session.
+
