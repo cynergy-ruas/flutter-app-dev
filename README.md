@@ -1,5 +1,5 @@
 # App Development session 1
-Code and notes for the first App development session.
+Code and notes for the first App Development session using [flutter](https://flutter.dev).
 
 ## Notes
 - [The code, which has comments that explain each and every step](code/lib)
