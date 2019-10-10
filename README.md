@@ -1,4 +1,4 @@
-# App Development session 1
+# App Development Session 1
 Code and notes for the first App Development session using [flutter](https://flutter.dev).
 
 ## Notes
