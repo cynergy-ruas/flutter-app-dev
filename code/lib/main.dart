@@ -77,9 +77,9 @@ class _MyAppState extends State<MyApp> {
             width: 100,
             height: 100,
             decoration: BoxDecoration(  /// [BoxDecoration] is used to decorate the [Container]
-              border: Border(
-                right: BorderSide(),
-                bottom: BorderSide()
+              border: Border( /// specfies the border
+                right: BorderSide(),  /// specifies that only the right border is required
+                bottom: BorderSide()  /// specifies that only the left border is required
               )
             ),
           ),
