@@ -1,10 +1,10 @@
-# App Development Session using Flutter
-Repo containing programs and notes done during the app dev session.
+# App Development Session 2
+Code and notes for the second App Development session using [flutter](https://flutter.dev)
 
-## The First Session
-In the first session, Flutter was introduced. The concepts such as Stateless and Stateful widget was explained. A simple app that updates text on the screen was taught in this session.<br>
-The notes and programs written in the first session is in the branch called "session-1". [Click here to access it.](https://github.com/cynergy-ruas/flutter-app-dev/tree/session-1)
+## Notes
+- [The code, which has comments that explain each and every step]()
+- [Session notes]()
+- [Flutter installation guide](https://github.com/cynergy-ruas/flutter-app-dev/blob/session-1/notes/flutter-setup-guide.pdf)
 
 ## Instructors
-- Shyamant Achar
 - Aryan Jalali
